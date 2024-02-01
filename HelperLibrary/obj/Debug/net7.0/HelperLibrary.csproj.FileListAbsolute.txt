@@ -1,0 +1,13 @@
+D:\nuget projects\demo\NugetDemo\HelperLibrary\bin\Debug\net7.0\HelperLibrary.deps.json
+D:\nuget projects\demo\NugetDemo\HelperLibrary\bin\Debug\net7.0\HelperLibrary.dll
+D:\nuget projects\demo\NugetDemo\HelperLibrary\bin\Debug\net7.0\HelperLibrary.pdb
+D:\nuget projects\demo\NugetDemo\HelperLibrary\obj\Debug\net7.0\Sensium.Helpers.Properties.Resources.resources
+D:\nuget projects\demo\NugetDemo\HelperLibrary\obj\Debug\net7.0\HelperLibrary.csproj.GenerateResource.cache
+D:\nuget projects\demo\NugetDemo\HelperLibrary\obj\Debug\net7.0\HelperLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\nuget projects\demo\NugetDemo\HelperLibrary\obj\Debug\net7.0\HelperLibrary.AssemblyInfoInputs.cache
+D:\nuget projects\demo\NugetDemo\HelperLibrary\obj\Debug\net7.0\HelperLibrary.AssemblyInfo.cs
+D:\nuget projects\demo\NugetDemo\HelperLibrary\obj\Debug\net7.0\HelperLibrary.csproj.CoreCompileInputs.cache
+D:\nuget projects\demo\NugetDemo\HelperLibrary\obj\Debug\net7.0\HelperLibrary.dll
+D:\nuget projects\demo\NugetDemo\HelperLibrary\obj\Debug\net7.0\refint\HelperLibrary.dll
+D:\nuget projects\demo\NugetDemo\HelperLibrary\obj\Debug\net7.0\HelperLibrary.pdb
+D:\nuget projects\demo\NugetDemo\HelperLibrary\obj\Debug\net7.0\ref\HelperLibrary.dll
